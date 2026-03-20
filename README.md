@@ -6,6 +6,10 @@ I enjoy learning new technologies, improving my coding skills, and creating effi
 </p>
 
 ---
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abdelrahman1803/abdelrahman1803/output/snake.svg" alt="Snake animation" />
+</p>
+---
 
 <h2 align="left">Skills & Technologies</h2>
 
