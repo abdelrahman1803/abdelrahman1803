@@ -1,14 +1,14 @@
-<h1 align="left">Hey there 👋, I'm Abdelrahman Ashraf</h1>
+<h1 align="center">Hey there 👋, I'm Abdelrahman Ashraf</h1>
+
+<p align="center">
+  Flutter Developer • Computer Science Graduate
+</p>
 
 <p align="left">
 I'm a <b>Flutter developer</b> and computer science graduate passionate about building practical mobile applications and solving real-world problems.  
 I enjoy learning new technologies, improving my coding skills, and creating efficient, user-friendly solutions.
 </p>
 
----
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abdelrahman1803/abdelrahman1803/output/snake.svg" alt="Snake animation" />
-</p>
 ---
 
 <h2 align="left">Skills & Technologies</h2>
@@ -70,7 +70,6 @@ I enjoy learning new technologies, improving my coding skills, and creating effi
   <img src="https://img.shields.io/badge/MVVM-009688?style=for-the-badge" />
 </div>
 
-
 ---
 
 <h2 align="left">Connect with me</h2>
@@ -86,6 +85,8 @@ I enjoy learning new technologies, improving my coding skills, and creating effi
 
 ---
 
+<h2 align="left">GitHub Stats</h2>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abdelrahman1803&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdelrahman1803&layout=compact&theme=dracula" height="150" />
@@ -93,18 +94,26 @@ I enjoy learning new technologies, improving my coding skills, and creating effi
 
 <p align="center">
   <a href="https://github.com/abdelrahman1803?tab=repositories">
-    <img 
-      src="https://github-readme-stats-one-bice.vercel.app/api?username=abdelrahman1803&theme=gotham&show_icons=true&count_private=true&hide_border=true" 
-      width="48%" 
+    <img
+      src="https://github-readme-stats-one-bice.vercel.app/api?username=abdelrahman1803&theme=gotham&show_icons=true&count_private=true&hide_border=true"
+      width="48%"
       alt="Abdelrahman Ashraf GitHub stats"
     />
   </a>
 
   <a href="https://github.com/abdelrahman1803?tab=stars">
-    <img 
-      src="https://github-readme-streak-stats.herokuapp.com?user=abdelrahman1803&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" 
-      width="48%" 
+    <img
+      src="https://github-readme-streak-stats.herokuapp.com?user=abdelrahman1803&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"
+      width="48%"
       alt="Abdelrahman Ashraf GitHub streak"
     />
   </a>
+</p>
+
+---
+
+<h2 align="left">Contribution Trail</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abdelrahman1803/abdelrahman1803/output/snake.svg" alt="Snake animation" />
 </p>
