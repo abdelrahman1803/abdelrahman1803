@@ -8,7 +8,7 @@ on:
 
   push:
     branches:
-    - main
+      - main
 
 jobs:
   generate:
@@ -21,15 +21,17 @@ jobs:
       - name: checkout
         uses: actions/checkout@v4
 
-      - name: generate snake.svg
+      - name: generate snake assets
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          outputs: dist/snake.svg?palette=github-dark
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/snake.svg?palette=github-dark
 
-
-      - name: push snake.svg to the output branch
+      - name: push snake assets to the output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output

@@ -1,3 +1,13 @@
+<p align="center">
+  <picture>
+    <source media="(max-width: 760px) and (prefers-color-scheme: dark)" srcset="./assets/hero/abdelrahman-profile-mobile-dark.svg">
+    <source media="(max-width: 760px)" srcset="./assets/hero/abdelrahman-profile-mobile-light.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/hero/abdelrahman-profile-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/hero/abdelrahman-profile-light.svg">
+    <img src="./assets/hero/abdelrahman-profile-dark.svg" alt="Abdelrahman Ashraf profile hero" width="100%">
+  </picture>
+</p>
+
 <h1 align="center">Hey there 👋, I'm Abdelrahman Ashraf</h1>
 
 <p align="center">
@@ -115,5 +125,9 @@ I enjoy learning new technologies, improving my coding skills, and creating effi
 <h2 align="left">Contribution Trail</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abdelrahman1803/abdelrahman1803/output/snake.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdelrahman1803/abdelrahman1803/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abdelrahman1803/abdelrahman1803/output/github-contribution-grid-snake.svg">
+    <img src="https://raw.githubusercontent.com/abdelrahman1803/abdelrahman1803/output/github-contribution-grid-snake.svg" alt="Animated snake moving through my GitHub contribution graph" width="100%" />
+  </picture>
 </p>
